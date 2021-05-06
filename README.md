@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yadavArvindKumar
 - 👀 I’m interested in Android App development
 - 🌱 I’m currently learning Jetpack compose
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Infotainment development
 - 📫 How to reach me ...
 
 <!---
