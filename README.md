@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @yadavArvindKumar
-- 👀 I’m interested in Android App development
+- 👋 Hi, I’m Arvind Kumar 
+- 👀 I’m interested in Android Application development
 - 🌱 I’m currently learning Jetpack compose
 - 💞️ I’m looking to collaborate on Infotainment development
-- 📫 How to reach me ...
 
 <!---
 yadavArvindKumar/yadavArvindKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
